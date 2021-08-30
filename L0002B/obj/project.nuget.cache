@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yo4svHQ/2jFX4yJ0+YQcnOW7ogCk+ZOk9MOJcJJulxJkmkzaSxePf8+RBvFKv3xXTPmE++gYdYAZBEt133t7rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ludvig\\Desktop\\asd\\L0002B 3, fungerande, Ludvig Malm\\L0002B 3, fungerande\\L0002B\\L0002B.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ludvig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

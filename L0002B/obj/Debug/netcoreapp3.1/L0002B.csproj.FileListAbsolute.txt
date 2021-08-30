@@ -1,0 +1,45 @@
+C:\Users\Ludvig\source\repos\L0002B\L0002B\bin\Debug\netcoreapp3.1\L0002B.exe
+C:\Users\Ludvig\source\repos\L0002B\L0002B\bin\Debug\netcoreapp3.1\L0002B.deps.json
+C:\Users\Ludvig\source\repos\L0002B\L0002B\bin\Debug\netcoreapp3.1\L0002B.runtimeconfig.json
+C:\Users\Ludvig\source\repos\L0002B\L0002B\bin\Debug\netcoreapp3.1\L0002B.runtimeconfig.dev.json
+C:\Users\Ludvig\source\repos\L0002B\L0002B\bin\Debug\netcoreapp3.1\L0002B.dll
+C:\Users\Ludvig\source\repos\L0002B\L0002B\bin\Debug\netcoreapp3.1\L0002B.pdb
+C:\Users\Ludvig\source\repos\L0002B\L0002B\obj\Debug\netcoreapp3.1\L0002B.Form1.resources
+C:\Users\Ludvig\source\repos\L0002B\L0002B\obj\Debug\netcoreapp3.1\L0002B.csproj.GenerateResource.cache
+C:\Users\Ludvig\source\repos\L0002B\L0002B\obj\Debug\netcoreapp3.1\L0002B.AssemblyInfoInputs.cache
+C:\Users\Ludvig\source\repos\L0002B\L0002B\obj\Debug\netcoreapp3.1\L0002B.AssemblyInfo.cs
+C:\Users\Ludvig\source\repos\L0002B\L0002B\obj\Debug\netcoreapp3.1\L0002B.csproj.CoreCompileInputs.cache
+C:\Users\Ludvig\source\repos\L0002B\L0002B\obj\Debug\netcoreapp3.1\L0002B.dll
+C:\Users\Ludvig\source\repos\L0002B\L0002B\obj\Debug\netcoreapp3.1\L0002B.pdb
+C:\Users\Ludvig\source\repos\L0002B\L0002B\obj\Debug\netcoreapp3.1\L0002B.genruntimeconfig.cache
+C:\Users\Ludvig\source\repos\L0002B\L0002B\obj\Debug\netcoreapp3.1\L0002B.csprojAssemblyReference.cache
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\bin\Debug\netcoreapp3.1\L0002B.exe
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\bin\Debug\netcoreapp3.1\L0002B.deps.json
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\bin\Debug\netcoreapp3.1\L0002B.runtimeconfig.json
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\bin\Debug\netcoreapp3.1\L0002B.runtimeconfig.dev.json
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\bin\Debug\netcoreapp3.1\L0002B.dll
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\bin\Debug\netcoreapp3.1\L0002B.pdb
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\obj\Debug\netcoreapp3.1\L0002B.csprojAssemblyReference.cache
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\obj\Debug\netcoreapp3.1\L0002B.Form1.resources
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\obj\Debug\netcoreapp3.1\L0002B.csproj.GenerateResource.cache
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\obj\Debug\netcoreapp3.1\L0002B.AssemblyInfoInputs.cache
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\obj\Debug\netcoreapp3.1\L0002B.AssemblyInfo.cs
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\obj\Debug\netcoreapp3.1\L0002B.csproj.CoreCompileInputs.cache
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\obj\Debug\netcoreapp3.1\L0002B.dll
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\obj\Debug\netcoreapp3.1\L0002B.pdb
+C:\Users\Ludvig\Desktop\L0002B 1 Windows Forms App, Ludvig Malm\L0002B\obj\Debug\netcoreapp3.1\L0002B.genruntimeconfig.cache
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\bin\Debug\netcoreapp3.1\L0002B.exe
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\bin\Debug\netcoreapp3.1\L0002B.deps.json
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\bin\Debug\netcoreapp3.1\L0002B.runtimeconfig.json
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\bin\Debug\netcoreapp3.1\L0002B.runtimeconfig.dev.json
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\bin\Debug\netcoreapp3.1\L0002B.dll
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\bin\Debug\netcoreapp3.1\L0002B.pdb
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\obj\Debug\netcoreapp3.1\L0002B.csprojAssemblyReference.cache
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\obj\Debug\netcoreapp3.1\L0002B.csproj.GenerateResource.cache
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\obj\Debug\netcoreapp3.1\L0002B.AssemblyInfoInputs.cache
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\obj\Debug\netcoreapp3.1\L0002B.AssemblyInfo.cs
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\obj\Debug\netcoreapp3.1\L0002B.csproj.CoreCompileInputs.cache
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\obj\Debug\netcoreapp3.1\L0002B.dll
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\obj\Debug\netcoreapp3.1\L0002B.pdb
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\obj\Debug\netcoreapp3.1\L0002B.genruntimeconfig.cache
+C:\Users\Ludvig\Desktop\L0002B 3\L0002B\obj\Debug\netcoreapp3.1\L0002B.Person.resources
